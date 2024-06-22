@@ -1,0 +1,15 @@
+.parent_address {
+  background-color: aquamarine;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.address_content {
+  font-size: 40px;
+}
+.address_button {
+  display: flex;
+  gap: 10px;
+}

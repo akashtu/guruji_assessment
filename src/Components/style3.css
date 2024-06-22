@@ -1,0 +1,15 @@
+.parent_confirmation {
+  background-color: aquamarine;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.address_button {
+  display: flex;
+  gap: 10px;
+}
+.address_heading {
+  font-size: 40px;
+}
